@@ -40,7 +40,7 @@
           handle=".vue-draggable-handle"
         >
           <template #item="{ element, index }">
-            <div class="simple-repeatable-row nsr-flex nsr-py-3 nsr-pl-3 nsr-relative nsr-rounded-md">
+            <div class="simple-repeatable-row nsr-flex nsr-py-3 nsr-pl-3 nsr-relative nsr-rounded-md nsr-items-center">
               <div class="vue-draggable-handle nsr-flex nsr-justify-center nsr-items-center nsr-cursor-pointer">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="22" height="22" class="fill-current">
                   <path
